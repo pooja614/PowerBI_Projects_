@@ -1,5 +1,13 @@
 # Supply Chain Analysis
 
+### About the Data 
+* The dataset of Supply Chains used by the company DataCo Global is used for the analysis.
+* The dataset is obtained from kaggle.
+* Provisioning , Production , Sales , Commercial Distribution are some of the areas of analysis.
+## Planning 
+* Data columns are grouped for understanding of the data.
+* Excel is used to understand the relation between different columns and categorize them to create schema.
+   ![plan](https://github.com/pooja614/supply_chain/assets/69869583/1c8f0244-b240-49e0-bfb0-21e5c4465613)
 ## Data Preprocessing and Data Modelling
 * The data type of the relevant columns are changed to respective types.
 * Dublicates are removed. 
@@ -10,8 +18,15 @@
 * The data is modelled to 'Star Schema'.
 * New IDs' are assigned to few columns after creating table.
 ![data_model](https://github.com/pooja614/supply_chain/assets/69869583/3043c88c-3397-432d-9278-00c48450e4e4)
+* Relationship is assigned between primary key and foreign key. 
 * Date table is newly populated for efficient plotting of graph.
-
+### Measures 
+* Different measures are created using DAX for analysis<br>
+Eg:
+* Total Sales = SUM('FACT-CoSupplyChain'[Sales])
+* Other Sales = CALCULATE(SUM('FACT-CoSupplyChain'[Sales]),'FACT-CoSupplyChain'[Order Item Profit Ratio]>=0)
+* Loss Sales = CALCULATE(SUM('FACT-CoSupplyChain'[Sales]),'FACT-CoSupplyChain'[Order Item Profit Ratio]<0)
+* Loss % = DIVIDE([Loss Sales],[Total Sales]) 
 
 ## Visualizations
 
@@ -114,8 +129,6 @@
 *	Standard class and second class shipping mode is used with 59.69% and 19.51% count of sales respectively. 
 *	Sales worth 1.57M sales has shipping cancelled. 
 
-<br></br>
-<br></br> 
 ### Purchase Quantity Analysis
 ![image](https://github.com/pooja614/supply_chain/assets/69869583/00b43f8d-8101-4e08-a047-bf521eb12ac6)
 * There is decrease in quantity of item ordered since September. 
