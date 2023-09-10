@@ -20,7 +20,8 @@
 ![image](https://github.com/pooja614/supply_chain/assets/69869583/23142a7d-dc85-4b8a-996a-5ceab2160bb2)
 ![image](https://github.com/pooja614/supply_chain/assets/69869583/dc910510-7c58-4222-8585-9591329d2e2b)
 ![image](https://github.com/pooja614/supply_chain/assets/69869583/0f6eb045-5cf2-4cce-b514-08cde703e1ff)
-![image](https://github.com/pooja614/supply_chain/assets/69869583/fc5bf1cd-4a75-4fc0-8e5f-f12d0e7c2e5f) 
+![sc_n2](https://github.com/pooja614/supply_chain/assets/69869583/5fbe9e9a-d8a4-46b4-8533-5a8fda4b82db)
+
 ![sc_13](https://github.com/pooja614/supply_chain/assets/69869583/8fb140e1-45ca-43b6-acbd-2fe568c2ce6d)
 
 ![image](https://github.com/pooja614/supply_chain/assets/69869583/00b43f8d-8101-4e08-a047-bf521eb12ac6)
