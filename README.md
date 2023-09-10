@@ -1,5 +1,22 @@
 # supply_chain 
 
+
+## Data Preprocessing
+The data 
+
+## Data Model  
+* The data type of the relevant columns are changed to respective types.
+* Dublicates are removed. 
+* The data columns are grouped and seperated into different tables.
+* Tables are merged to assign IDs' in  Fact table. 
+* The data is modelled to 'Star Schema'.
+* New IDs' are assigned to few columns after creating table.
+* The columns are merged 
+* Date table is newly populated for efficient plotting of graph. 
+
+![image](https://github.com/pooja614/supply_chain/assets/69869583/902b3299-608d-4345-bf85-f2ffe0bd98c2)
+
+
 ![sc1](https://github.com/pooja614/supply_chain/assets/69869583/5d7f8911-bd40-4838-8de1-acc00fcd6319)
 *	Western Europe has highest sales order amount followed by central and south America. 
 *	Europe and LATAM has 29% and 28% shares in total sales. 
