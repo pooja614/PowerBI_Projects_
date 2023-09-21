@@ -38,6 +38,8 @@ Sample:
 *	Fishing category has greater demands followed by cleats.  
 *	Estados Unidos is highest order country. 
 * Tooltip is used for detailed visualization.
+* ![tl_1](https://github.com/pooja614/supply_chain/assets/69869583/e2819a62-ab4e-479a-8d94-5e79e776bd54)
+
 ### Net Revenue Insights
 ![sc_ex](https://github.com/pooja614/supply_chain/assets/69869583/94fb0e99-5b1a-4c85-8cb7-da22251f89cc)
 ### Customer Insights
