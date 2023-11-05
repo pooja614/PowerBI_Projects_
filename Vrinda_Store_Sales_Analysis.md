@@ -1,4 +1,4 @@
-# Store Analysis 
+# Vrinda Store Analysis 
 Objective:<br>
 Vrinda Store' wants to  understand their customers and purchase trends for better growth of the business in the year 2023. <br><br>
 The project focuses on understanding the customers of 'Vrinda Store' and the purchase trends for better growth of the business. <br>
