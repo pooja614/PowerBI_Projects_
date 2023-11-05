@@ -134,7 +134,8 @@ DIVIDE(
   - Blouse and bottom are completely delivered at Amazon.
 </pre> 
 ### Purchase Trends 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/688ed92b-dfa7-49d1-81ba-d1f387b91bde)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/5f781db2-b597-408f-8f19-983b0f4f451e)
+
 <pre>
 On filter on women, 
 - February to April is peak time for Set purchases, with peak on March. 
@@ -168,7 +169,7 @@ On filter on women,
 </pre> 
 
 <pre>
-This is non-interactive sample of the interactive dashboard. <br> 
+This is non-interactive sample of the interactive dashboard.
 Interactive dashboard will generate further insights. 
 </pre>
 ## Conclusion 
@@ -178,6 +179,9 @@ Interactive dashboard will generate further insights.
 <pre>
 
   
-</pre>
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/7118def1-1aaa-457a-8a21-2b6f66314022)
+</pre> 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/593f982e-5df1-4363-8663-741c6b992a5a)
+
+
+
 
