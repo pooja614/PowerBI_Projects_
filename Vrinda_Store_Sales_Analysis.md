@@ -15,7 +15,89 @@ Relevant preprocessing is done.
 - Data is modelled to 'Star Schema'.
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/2ccc0de9-d318-48c4-97bf-d136cdc82faf)
 
+## DAX Calculations 
+DAX functions are used for efficient analysis. The following are few DAX codes coded for the project. 
+<pre> 
+Total Sales = SUM('Fact-VrindaStores'[Amount]) 
   
+Overall Sales = 
+CALCULATE(
+    [Total Sales], 
+    ALL('Fact-VrindaStores'[ship-city]), 
+    ALL('Dim-Category'[Category]), 
+    ALL(Dates), 
+    ALL('Dim-Gender'[Gender]
+))
+
+% Sales = 
+DIVIDE(
+    [Total Sales],
+    [Overall Sales],
+    "0"
+) 
+
+
+% of Sales by Females = 
+VAR fem_sales = 
+    CALCULATE(
+        [Total Sales],
+        'Dim-Gender'[Gender] = "Women"
+    )
+VAR ratio = 
+DIVIDE(
+    fem_sales,
+     [Total Sales],
+     0
+     )
+return ratio 
+
+Refunded % = 
+VAR Refunded = 
+CALCULATE(
+    [Total Sales], 
+    'Dim-DeliveryStatus'[Status] = "Refunded"
+) 
+
+VAR ratio = 
+    DIVIDE(
+        Refunded,
+        [Total Sales],
+        0
+    )
+return ratio  
+
+% Share in their State = 
+CALCULATE(
+    [Total Sales], 
+    'Fact-VrindaStores'[ship-city]
+    ) 
+
+Average Monthly Sales = 
+AVERAGEX(
+    Dates, 
+    [Total Sales]
+)
+
+Last Month's Sales = 
+CALCULATE(
+    [Total Sales], 
+    PARALLELPERIOD(
+        Dates[Date], 
+        -1, 
+        MONTH
+    )
+) 
+
+Sales MoM% Change = 
+DIVIDE(
+    ([Total Sales]-[Last Month's Sales]), 
+    [Last Month's Sales], 
+    BLANK()
+) 
+
+
+</pre>
+- DAX measures is used for applying suitable filtering and generating aggregate values. 
 ### Overall Analysis 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/32003330-471a-461e-b087-80c102bc2409)
 <pre>
@@ -85,6 +167,10 @@ On filter on women,
 - 'Western Dress' and 'Bottom' are returned more. 
 </pre> 
 
+<pre>
+This is non-interactive sample of the interactive dashboard. <br> 
+Interactive dashboard will generate further insights. 
+</pre>
 ## Conclusion 
 - This analysis will be useful for taking relevant business decisions.
 - Understanding the low performing areas and taking appropriate steps will serve the cause.
