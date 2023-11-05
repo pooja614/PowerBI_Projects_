@@ -1,9 +1,15 @@
-# Supply Chain Analysis
+# Supply Chain Analysis 
 
+Supply chain analysis is the process of evaluating every stage of a supply chain starting from the time the business acquires raw materials or supplies from its suppliers, to the delivery of final products to the customers. 
+
+![logistics-3125131_640](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/2e1d00bc-c371-422e-8390-8580fd5257a7)
+
+## Descriptive analytics
+This project aims at descriptive analysis. It is a type of analytics where data is used to describe trends and relationships, such as supply chain performance or a warehouse’s inventory levels. Logistics professionals use descriptive analytics, consequently, to understand how a supply chain and its parts are currently working.  
 ### About the Data 
 * The dataset of Supply Chains used by the company DataCo Global is used for the analysis.
 * The dataset is obtained from kaggle.
-* Provisioning , Production , Sales , Commercial Distribution are some of the areas of analysis.
+* Provisioning , Production , Sales , Commercial Distribution are some of the areas of analysis included in this project. 
 ## Planning 
 * Data columns are grouped for understanding of the data.
 * Excel is used to understand the relation between different columns and categorize them to create schema.
@@ -20,18 +26,19 @@
 ![data_model](https://github.com/pooja614/supply_chain/assets/69869583/f7a220ca-9653-4fdc-8c50-8fa29f2aaf1b)
 * Relationship is assigned between primary key and foreign key. 
 * Date table is newly populated for efficient plotting of graph.
-## Measures 
+
+
+
+## DAX and Measures
 * Different measures are created using DAX for analysis<br>
-
-### DAX 
-
+* DAX functions are used to produce effective calculations and analysis.
 <pre>
-DAX functions are used to produce effective calculations and analysis. 
+ 
 
-Creating Date Column: 
+<b>Creating Date Column: </b>
 Dates = CALENDAR(DATE(YEAR(MIN('DIM-order'[order date])),1,1), DATE(YEAR(MAX('DIM-order'[order date])), 1,31))
 
-DAX Queries: 
+<b>DAX Queries: </b>
 Net Sales = SUM('FACT-CoSupplyChain'[Net Sales])
 Net Revenue = SUM('FACT-CoSupplyChain'[Net Sales])
 Revenue Contribution % = 
@@ -104,12 +111,38 @@ COALESCE(
 )
 
 </pre>
+## Tooltips and Filters
+Tooltips and filters are used. 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/d94edc56-01fd-4c64-a300-82f79bfcbda4)
 
-
+## Visualizations 
+The below slides are the non-interactive version of the Interactive PowerBI Dashboard. 
+### Geography and Market Sales Analysis
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/71f4babd-ea09-4e1f-8943-039de7f446ac) 
+### Net Sales VS Category
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/51737056-783b-4e7f-ba28-a1107151ab00)
 
   
-### Net Revenue Insights
+### Revenue Insights
 ![sc_ex](https://github.com/pooja614/supply_chain/assets/69869583/94fb0e99-5b1a-4c85-8cb7-da22251f89cc)
 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c15a4dda-f160-4270-ba50-30f5a452d916)
 
+### Customer Segment Insights
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/27790315-8ae9-4402-b039-2b33d5ca1321)
 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c7ddca71-8b51-4704-84fd-0bf0c84af28c) 
+### Yearly, Quarterly, Monthly Analysis 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/504ffdfa-fa30-4c01-a3ce-4b36a7206844)
+### Timing Trends by Category
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/5a2dd401-dcf6-4278-8c57-6ecab56c06ed)
+### Loss Sales 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/6c08f628-020e-4e8f-9961-63ab6b3ca4c8)
+### Order and Payment 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/b0256445-66fe-4d1a-89c5-20a5b01a96e8)
+
+### Shipment and Delivery 
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/d61de4c2-eaae-4bf5-a250-d2b73ab83662)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/401236de-f000-4adb-920a-c2c670e41fb9)
+### Concluding Slide
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/7269b782-9f44-4ef2-9402-c4c7a98e61b5)
