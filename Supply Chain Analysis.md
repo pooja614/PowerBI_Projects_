@@ -188,10 +188,11 @@ Top preforming customers are visualized.
 
 <pre>
 This is non-interactive version of the interactive PowerBI dashboard. Sample insights are presented through the slide. 
+Detailed insights and findings can be obtained by applying interactions. 
 </pre>
 ### Conclusion 
 <pre>
  Thus these insights can be used for taking business decisions.
 </pre>
- 
+ <a href = "https://resonatedatabi-my.sharepoint.com/:p:/g/personal/poojads_resonatedatabi_onmicrosoft_com/Eat0w0UhVFNPvM2YIcNxDXoBnThVrbswgIhoWvY-kBOxDQ?e=H3tNEw">Static Powerpoint version of the project<a>
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/7269b782-9f44-4ef2-9402-c4c7a98e61b5)
