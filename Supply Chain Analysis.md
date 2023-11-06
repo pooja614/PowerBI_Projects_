@@ -125,11 +125,12 @@ The below slides are the non-interactive version of the Interactive PowerBI Dash
 - We observe in Central America Mexico has the highest worth ordered. 
 </pre>
 ### Net Sales VS Category
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/51737056-783b-4e7f-ba28-a1107151ab00)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/f730bb53-cb58-45b2-a7f8-9e9d35dfac35)
 <pre>
 - Fishing, cleats, camping & Hiking, Cardio Equipement have most demands. 
-- LATUM is top market for Accessories and 'Baseball & Softball'
-</pre>
+- LATUM is top market for Accessories and 'Baseball & Softball' 
+- Department Fan Shop, Golf, Apparel have more number of quantities but, w.r.to revenu Apparel is above Golf items. 
+</pre> 
 ### Revenue Insights
 ![sc_ex](https://github.com/pooja614/supply_chain/assets/69869583/94fb0e99-5b1a-4c85-8cb7-da22251f89cc)
 <pre>
@@ -146,7 +147,12 @@ The below slides are the non-interactive version of the Interactive PowerBI Dash
 
 ### Customer Segment Insights
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/27790315-8ae9-4402-b039-2b33d5ca1321)
-
+<pre>
+- Caguas is the top Revenue generating city followed by Chicago. 
+- PR, NY, CA are top performing state 
+- Consumer revenue is highest followed by corporate and home office customers. 
+- EE.UU Country has more revenue contribution. 
+</pre>
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c7ddca71-8b51-4704-84fd-0bf0c84af28c) 
 ### Yearly, Quarterly, Monthly Analysis 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/504ffdfa-fa30-4c01-a3ce-4b36a7206844)
