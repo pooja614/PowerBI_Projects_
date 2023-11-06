@@ -21,7 +21,7 @@ This project aims at descriptive analysis. It is a type of analytics where data 
 * Different transformation steps are applied. 
 * ![etl_2](https://github.com/pooja614/supply_chain/assets/69869583/775714a3-d6e0-4c46-8982-586ed23165eb)
 * Tables are merged to assign IDs' in  Fact table. 
-* The data is modelled to 'Star Schema'.
+* The data is modelled to 'Star Schema'. 
 * New IDs' are assigned to few columns after creating table.
 ![data_model](https://github.com/pooja614/supply_chain/assets/69869583/f7a220ca-9653-4fdc-8c50-8fa29f2aaf1b)
 * Relationship is assigned between primary key and foreign key. 
@@ -119,14 +119,30 @@ Tooltips and filters are used.
 The below slides are the non-interactive version of the Interactive PowerBI Dashboard. 
 ### Geography and Market Sales Analysis
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/71f4babd-ea09-4e1f-8943-039de7f446ac) 
+<pre>
+- Europe and LATUM are top markets. 
+- Western Europe, Central America has highest sales worth supplied. 
+- We observe in Central America Mexico has the highest worth ordered. 
+</pre>
 ### Net Sales VS Category
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/51737056-783b-4e7f-ba28-a1107151ab00)
-
-  
+<pre>
+- Fishing, cleats, camping & Hiking, Cardio Equipement have most demands. 
+- LATUM is top market for Accessories and 'Baseball & Softball'
+</pre>
 ### Revenue Insights
 ![sc_ex](https://github.com/pooja614/supply_chain/assets/69869583/94fb0e99-5b1a-4c85-8cb7-da22251f89cc)
+<pre>
+- Europe, LATUM are high revenue contribution %. 
+- Profit Margin % is slightly more in USCA, Africa even though the market value is less. 
+- Europe, LATUM have high Profit Margin Contribution. 
+</pre>
 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c15a4dda-f160-4270-ba50-30f5a452d916)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c15a4dda-f160-4270-ba50-30f5a452d916) 
+<pre>
+- 10 countires have negetive Profit Margin %. 
+- Revenue Contribution% Trends and Profit Margin Contribution% trends are not same. 
+</pre>
 
 ### Customer Segment Insights
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/27790315-8ae9-4402-b039-2b33d5ca1321)
