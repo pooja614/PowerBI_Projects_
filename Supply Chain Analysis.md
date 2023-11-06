@@ -190,5 +190,8 @@ Top preforming customers are visualized.
 This is non-interactive version of the interactive PowerBI dashboard. Sample insights are presented through the slide. 
 </pre>
 ### Conclusion 
-Thus these insights can be used 
+<pre>
+ Thus these insights can be used for taking business decisions.
+</pre>
+ 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/7269b782-9f44-4ef2-9402-c4c7a98e61b5)
