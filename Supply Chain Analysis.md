@@ -154,10 +154,23 @@ The below slides are the non-interactive version of the Interactive PowerBI Dash
 - EE.UU Country has more revenue contribution. 
 </pre>
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c7ddca71-8b51-4704-84fd-0bf0c84af28c) 
+<pre>
+Top preforming customers are visualized. 
+</pre>
 ### Yearly, Quarterly, Monthly Analysis 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/504ffdfa-fa30-4c01-a3ce-4b36a7206844)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/504ffdfa-fa30-4c01-a3ce-4b36a7206844) 
+<pre>
+- There is dip in total sales in February and then there is a gradual increase. 
+- After october there is decline. 
+- Other filters generates different results.
+</Pre>
 ### Timing Trends by Category
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/5a2dd401-dcf6-4278-8c57-6ecab56c06ed)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/5a2dd401-dcf6-4278-8c57-6ecab56c06ed) 
+<pre>
+- Book category is the applied filter. 
+- Books are most sold afternoon. 
+- Can be used for offers and advertisements. 
+</pre>
 ### Loss Sales 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/6c08f628-020e-4e8f-9961-63ab6b3ca4c8)
 ### Order and Payment 
@@ -165,6 +178,15 @@ The below slides are the non-interactive version of the Interactive PowerBI Dash
 
 ### Shipment and Delivery 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/d61de4c2-eaae-4bf5-a250-d2b73ab83662)
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/401236de-f000-4adb-920a-c2c670e41fb9)
-### Concluding Slide
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/401236de-f000-4adb-920a-c2c670e41fb9) 
+<pre>
+- Most category fall under late delivery. 
+- Advanse shipping has delivered faster than the days scheduled. 
+</pre> 
+
+<pre>
+This is non-interactive version of the interactive PowerBI dashboard. Sample insights are presented through the slide. 
+</pre>
+### Conclusion 
+Thus these insights can be used 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/7269b782-9f44-4ef2-9402-c4c7a98e61b5)
