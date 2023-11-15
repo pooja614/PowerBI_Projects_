@@ -12,9 +12,24 @@ The data consists of following fields.
 - Required additional columns are formed. 
 ## Overall Analysis
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/26a4988e-d6ff-4fa0-af62-5c06041eb782) 
+- 16.72% of churn is observed. 
+- Churn rate is more observed for mobile category.
+- Debit Card and credit card is mostly used for transactions followed by e wallet and others. 
+### Churn factors on applying filters
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/f5228579-a2e8-41f2-a3d9-12357508e847)
+-	Females have more churn %. 
+-	Singles are more effecting the churn. 
+-	3 and 4 hours has been the most time spent on app by people who churn. 
 
 ## Trends in Churn
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/1a16df1c-d1e5-4a37-9cd9-15aa1399776c)
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/1a16df1c-d1e5-4a37-9cd9-15aa1399776c) 
+
+- 0 and 1 tenure has most churn rate suspecting some immediate issues.
+- There is spike after 20 in churn rate.
+- Coupon 1, 2 and 0 are mostly used by customers.
+- Cashback of 151-200 and 101- 150 range are mostly exercised by customers.
+- After 1 day of last order there is sudden churn which continues for 3-4 days.
+- Satisfaction score of 3-4-5 has high churn rate indicating that dissatisfied customers are leaving the platform. 
 
 ## Root Cause Analysis
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/dc783a25-2a03-4833-a23b-67fbc1a5c688)
