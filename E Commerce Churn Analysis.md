@@ -3,7 +3,9 @@ This project aims at analysing customer churn across ecommerce data and investig
 ## Data and Preprocessing
 
 The data consists of following fields. 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/ba476019-5d3b-4e72-bfc6-14121bde61bb)
+
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/3ae6e49d-37bf-41e4-8ac6-3eea90b5944d)
+
 
 ### Preprocessing
 - The data has been preprocessed for data type and null values. 
