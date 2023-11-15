@@ -28,4 +28,6 @@ The data consists of following fields.
 - Purchase of laptop and accessary through mobile phone follwed by 0 tenure has e-wallet with high churn. 
 - E wallet payment mode section appears to be problematic and has more churn count in the image.
 
-  THis is non interactive version of the interactive dashboard. 
+  THis is non interactive version of the interactive dashboard.
+
+  November 15 2023
