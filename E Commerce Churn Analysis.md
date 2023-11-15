@@ -1,5 +1,11 @@
 # E Commerce Churn Analysis 
+<pre>
 This project aims at analysing customer churn across ecommerce data and investigate root causes for churn. 
+
+  
+</pre>
+ 
+
 ## Data and Preprocessing
 
 The data consists of following fields. 
