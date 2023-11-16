@@ -6,7 +6,12 @@ This project aims at analysing customer churn across ecommerce data and investig
  - Churn analysis helps to understand the focus area for improvement:
     - Customer onboarding
     - Product usability.
-  Taking proactive measures towards preventing churn will ensure growth of the business. 
+- Here are the most common reasons why customers stop paying for your product, according to the Zopka study:<br>
+    - Poor Onboarding
+    - Poor customer service
+    - Unfullfilled Expectations
+    - High Pricing <br>
+Taking proactive measures towards preventing churn will ensure growth of the business. <br>
 
 ## Data and Preprocessing
 
@@ -30,18 +35,22 @@ The data consists of following fields.
 -	3 and 4 hours has been the most time spent on app by people who churn. 
 
 ## Trends in Churn
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/1a16df1c-d1e5-4a37-9cd9-15aa1399776c) 
+
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/e4988385-b8a0-44a8-82c4-8e7423988dd8)
 
 - 0 and 1 tenure has most churn rate suspecting some immediate issues.
-- There is spike in churn rate at initial 0-1 tenure and after 20. 
-- Coupon 1, 2 and 0 are mostly used by customers.
-- Cashback of 151-200 and 101- 150 range are mostly exercised by customers.
+- There is spike in churn rate at initial 0-1 tenure and after 20.
+- The orderamount hike from last year has few spikes in number of customers churned.
+- There is spike at the range of 15-19 followed by 22-24, indicating the pricing issue. 
 - After 1 day of last order there is sudden churn which continues for 3-4 days.
-- Satisfaction score of 3-4-5 has high churn rate indicating that dissatisfied customers are leaving the platform. 
+- Satisfaction score of 3-4-5 has high churn rate indicating that dissatisfied customers are leaving the platform.
+- Distance from warehouse to home 19, 20, 29, 31, 32 has more than 25% churn rate. 
+
 
 ## Root Cause Analysis
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/dc783a25-2a03-4833-a23b-67fbc1a5c688)
-
+- Coupon 1, 2 and 0 are mostly used by customers.
+- Cashback of 151-200 and 101- 150 range are mostly exercised by customers.
 - 1 and 2 coupon code are visible here as responsible for churn through mobile phone. 
 - Statisfaction score is average and below average for platform usages responsible for churn.
 
@@ -57,11 +66,15 @@ The data consists of following fields.
 - Wrong product expectations and user experience is observed due to below average satisfaction score.
 - Product usability in the mobile phone category area of concern as more churn is observed. 
 - Preferences of younger generation can be learnt as singles are mostly responsible for churn. 
-- E wallet section appears to be problematic.
-- Involvement of tier 2 city is less. Releeant reasons can be investigated and targeted advertisments can be introduced. 
+- E wallet section appears to be problematic. 
+- Involvement of tier 2 city is less. Relevant reasons can be investigated and targeted advertisments can be introduced. 
+- 15-19 followed by 22-24 amount increase in spricing can be re-evaluated for balanced pricing.
+- Distance from warehouse to home with more than 25% churn rate can be investigated for problems in delivery modes. 
 
+## References 
+- https://userpilot.com/blog/churn-analytics/ 
 
-<b>THANK YOU</b> 
+<br><b>THANK YOU</b> 
 
 <pre>
 
