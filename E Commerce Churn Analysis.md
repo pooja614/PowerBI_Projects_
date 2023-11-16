@@ -1,7 +1,10 @@
 # E Commerce Churn Analysis 
+
+## Aim 
 <pre>
 This project aims at analysing customer churn across ecommerce data and investigate the root causes for churn. 
-</pre>
+</pre> 
+## Customer Churn Analytics
  - Churn analytics helps to detect product friction points and understand the reasons behind churn.
  - Churn analysis helps to understand the focus area for improvement:
     - Customer onboarding
@@ -11,9 +14,10 @@ This project aims at analysing customer churn across ecommerce data and investig
     - <b>Poor customer service:</b> Timely customer support, in-app help centers are important. 
     - <b>Unfullfilled Expectations:</b> Apt description of the product resembling actual functionality. 
     - <b>High Pricing:</b> Aligning pricing line to the market and product features offered is crucial. <br>
-<pre>
- Taking proactive measures towards preventing churn will ensure growth of the business.
-</pre>
+
+
+Taking proactive measures towards preventing churn will ensure growth of the business.
+
 
 
 ## Data and Preprocessing
