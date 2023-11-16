@@ -1,10 +1,12 @@
 # E Commerce Churn Analysis 
 <pre>
-This project aims at analysing customer churn across ecommerce data and investigate root causes for churn. 
-
-  
+This project aims at analysing customer churn across ecommerce data and investigate the root causes for churn. 
 </pre>
- 
+ - Churn analytics helps to detect product friction points and understand the reasons behind churn.
+ - Churn analysis helps to understand the focus area for improvement:
+    - Customer onboarding
+    - Product usability.
+  Taking proactive measures towards preventing churn will ensure growth of the business. 
 
 ## Data and Preprocessing
 
@@ -31,7 +33,7 @@ The data consists of following fields.
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/1a16df1c-d1e5-4a37-9cd9-15aa1399776c) 
 
 - 0 and 1 tenure has most churn rate suspecting some immediate issues.
-- There is spike after 20 in churn rate.
+- There is spike in churn rate at initial 0-1 tenure and after 20. 
 - Coupon 1, 2 and 0 are mostly used by customers.
 - Cashback of 151-200 and 101- 150 range are mostly exercised by customers.
 - After 1 day of last order there is sudden churn which continues for 3-4 days.
@@ -46,9 +48,25 @@ The data consists of following fields.
 ## Investigating payment mode issues. 
 ![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/e618bcc7-79a1-43de-8c32-4c41c1cdac6b) 
 
-- Purchase of laptop and accessary through mobile phone follwed by 0 tenure has e-wallet with high churn. 
+- Purchase of laptop and accessary through mobile phone followed by 0 tenure has e-wallet with high churn. 
 - E wallet payment mode section appears to be problematic and has more churn count in the image.
 
-  THis is non interactive version of the interactive dashboard.
+## Suggestions 
 
-  November 15 2023
+- Customer onboarding appears to be problematic as there is churn for small tenure.
+- Wrong product expectations and user experience is observed due to below average satisfaction score.
+- Product usability in the mobile phone category area of concern as more churn is observed. 
+- Preferences of younger generation can be learnt as singles are mostly responsible for churn. 
+- E wallet section appears to be problematic.
+- Involvement of tier 2 city is less. Releeant reasons can be investigated and targeted advertisments can be introduced. 
+
+
+<b>THANK YOU</b> 
+
+<pre>
+
+This is non interactive version of the interactive dashboard.
+
+November 15 2023
+</pre>
+
