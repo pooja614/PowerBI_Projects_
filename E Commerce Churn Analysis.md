@@ -7,11 +7,14 @@ This project aims at analysing customer churn across ecommerce data and investig
     - Customer onboarding
     - Product usability.
 - Here are the most common reasons why customers stop paying for your product, according to the Zopka study:<br>
-    - Poor Onboarding
-    - Poor customer service
-    - Unfullfilled Expectations
-    - High Pricing <br>
-Taking proactive measures towards preventing churn will ensure growth of the business. <br>
+    - <b>Poor Onboarding:</b> Poor and non-personalized product tours and GUI issues and popups.  
+    - <b>Poor customer service:</b> Timely customer support, in-app help centers are important. 
+    - <b>Unfullfilled Expectations:</b> Apt description of the product resembling actual functionality. 
+    - <b>High Pricing:</b> Aligning pricing line to the market and product features offered is crucial. <br>
+<pre>
+ Taking proactive measures towards preventing churn will ensure growth of the business.
+</pre>
+
 
 ## Data and Preprocessing
 
@@ -60,7 +63,7 @@ The data consists of following fields.
 - Purchase of laptop and accessary through mobile phone followed by 0 tenure has e-wallet with high churn. 
 - E wallet payment mode section appears to be problematic and has more churn count in the image.
 
-## Suggestions 
+## Suggestions and Proactive Measures
 
 - Customer onboarding appears to be problematic as there is churn for small tenure.
 - Wrong product expectations and user experience is observed due to below average satisfaction score.
