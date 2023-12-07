@@ -97,56 +97,61 @@ DIVIDE(
 
 
 </pre>
-- DAX measures is used for applying suitable filtering and generating aggregate values. 
-### Overall Analysis 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/32003330-471a-461e-b087-80c102bc2409)
+- DAX measures is used for applying suitable filtering and generating aggregate values.
+
+### Sales Insights
+
+<pre></pre>
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/74295257-a2b1-4770-b9f8-38a7e552e00b)
+<pre></pre>
+### Sales Trends 
+
+<pre></pre>
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/b9b80680-4426-41bc-91b5-a71b450b3e76)
+<pre></pre>
+### Andrapradesh, Vishakhapatnam Refund Insights. 
+
+<pre></pre>
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/c394c868-1d13-4f16-bd73-2ee6d53349e1)
+<pre></pre>
+### Sales Trend in Amazon Channel for Top Category 
+<pre></pre>
+
+![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/eef01025-ae29-4408-83c2-2b2bf8281494)
+<pre></pre>
+
+
+## Important Insights 
 <pre>
-- The slide is filtered to show the statistics for sales that has been sucessfully delivered. 
 - Amazon has highest sales for the store products followed by Myntra and Flipkart. 
 - Middle Age adults are highest purchasers. 
 - Women have highest rate of purchase. 
 - Maharastra, Karnataka, Uttarpradesh are top states. 
-</pre>
-
-
-### Top 50 high performing City and trends
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/8071da8a-4058-45c7-9df8-6cbc7ccf9b13)
-<pre>
 - 2M sales are B2B
 - M, L, XL are the sizes high in demand overall.
-- Top 50 performing states are visualized.
 - Bengaluru, Hyderabad, New Delhi are having highest sales %.
-</pre>
-
-### Channel Trends
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/ec2e95bf-7f95-4163-b240-eab7d8fd6816)
 - 64% of sales are sold to women.
 - 93% of sales are delivered overall, 2.3% of sales are cancelled, 1.3% are refunded and 3.4% are returned.
 - Flipkart and Myntra has 3M sales returned,  5M sales in Amazon is returned.  
-
-### Category and Sales of not delivered Items
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/4c192e5c-9b42-4eb6-9804-ad543a3c1771)
-
-<pre> 
-  - Depicts total sales of undelivered : Refunded, cancelled, returned.
+</pre>
+### Category and Sales of not delivered Items 
+<pre>
+- Depicts total sales of undelivered : Refunded, cancelled, returned.
   - Men have western dress the highest followed by 'set'. 
   - Women have Kurta highest followed by 'set'. 
   - Blouse and bottom are completely delivered at Amazon.
-</pre> 
-### Purchase Trends 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/5f781db2-b597-408f-8f19-983b0f4f451e)
+</pre>
+  
 
+### Purchase Trends Women
 <pre>
 On filter on women, 
 - February to April is peak time for Set purchases, with peak on March. 
 - Further sales are increased in October. 
 - Kurta has peak sales during February, May, September, November. 
-- March, September, November is peak time for western dress of women. 
-</pre> 
-
+- March, September, November is peak time for western dress of women.
+</pre>
 ### Date and Sales 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/6a76fa48-601c-4c0e-8cd0-f5c77de007cd)
-
 <pre>
 - Qtr 1 has highest sales and Qtr 4 has lowest sales. 
 - March- April has peak sales followed by July- August. 
@@ -154,7 +159,6 @@ On filter on women,
 - Overall sales has a decreasing trend. 
 </pre>
 ### Delivery Status Analysis 
-![image](https://github.com/pooja614/PowerBI_Projects_/assets/69869583/1e524177-be4a-4ca2-bdf8-74608d820ea3)
 
 <pre>
 - Top table shows the category wise status. 
