@@ -1,6 +1,6 @@
 # E Commerce Churn Analysis 
 
-## Aim 
+## Aim  
 <pre>
 This project aims at analysing customer churn across ecommerce data and investigate the root causes for churn. 
 </pre> 
